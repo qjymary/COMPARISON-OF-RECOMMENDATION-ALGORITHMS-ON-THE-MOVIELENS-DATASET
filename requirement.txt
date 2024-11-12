@@ -1,0 +1,9 @@
+pandas==1.1.5
+matplotlib==3.3.4
+seaborn==0.11.2
+wordcloud==1.9.2
+ipython==7.16.3
+numpy==1.19.5
+scikit-learn==0.24.2
+tqdm==4.64.1
+funk-svd @ git+https://github.com/gbolmier/funk-svd@fecc38ea1c2859ef6a6d9af0b7f953e1b693764e
